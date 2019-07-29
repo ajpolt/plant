@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Plant</string>
+    <string name="new_plant">New Plant</string>
+    <string name="water_plant">Water Plant</string>
+    <string name="plant_needs_water">The plant needs water</string>
+    <string name="plant_kindof_needs_water">The plant could use some water</string>
+    <string name="plant_blooming">Your flower is blooming!</string>
+    <string name="settings">Settings</string>
+</resources>
